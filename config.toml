@@ -21,12 +21,12 @@ title = "Adaptive Audiovisual Solutions - AAS"
 
 
 [[menu.main]]
-	name = "Services"
+	name = "Palvelut"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Projektit"
     url = "/work/"
     weight = 2
 
@@ -37,7 +37,7 @@ title = "Adaptive Audiovisual Solutions - AAS"
 
 
 [[menu.main]]
-    name = "History"
+    name = "Historia"
     url = "/history/"
     weight = 3
 
