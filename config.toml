@@ -1,6 +1,4 @@
 baseURL = "/"
-# themesDir = "themes"
-# theme = "aas.fi"
 languageCode = "fi"
 title = "Adaptive Audiovisual Solutions - AAS"
 
