@@ -1,8 +1,8 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "aas.fi"
-languageCode = "en-us"
-title = "Hugo Hero Theme"
+languageCode = "fi"
+title = "Adaptive Audiovisual Solutions - AAS"
 
 
 [module]
