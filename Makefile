@@ -1,10 +1,10 @@
-.PHONY: help save publish
+.PHONY: help save public
 .DEFAULT_GOAL := help
 .SILENT:clean
 
 help:
 	@echo "make save msg='Viesti tähän'"
-	@echo "publish"
+	@echo "make public"
 
 save:
 ifdef msg
@@ -13,5 +13,5 @@ else
 	@echo "Anna joku viesti, saatana!!!"
 endif
 
-publish:
+public:
 	@git push -u origin master

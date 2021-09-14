@@ -20,13 +20,13 @@ hugo server
 
 6. Add & Commit the changes:
 ```bash
-git add . && git commit -m "[INSERT COMMIT MESSAGE HERE]"
+make save msg="[INSERT SAVE MESSAGE HERE]"
 ```
 
 7. Push the commits made to remote which triggers the build automagically:
 
 ```bash
-git push -u origin master
+make public
 ```
 
 8. Enjoy your brand new site 🤑
