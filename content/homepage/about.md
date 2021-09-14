@@ -2,7 +2,7 @@
 title: 'Our Difference'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Lue lisää'
 buttonLink: 'about'
 ---
 

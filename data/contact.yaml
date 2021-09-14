@@ -1,28 +1,29 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
-businessName: 'Hugo Serif'
+email: 'info (at) aas.fi'
+phone: '044 237 7490'
+businessName: 'Adaptive Audiovisual Solutions-AAS'
 address: |
-  123 Some Street
-  City, State 12345
+  Kollantie 119
+  26560 Kolla
+  Rauma, Finland
 hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
+  - day: Maanantai
+    open: 8:30
+    close: 16:00
+  - day: Tiistai
+    open: 8:30
+    close: 16:00
+  - day: Keskiviikko
+    open: 8:30
+    close: 16:00
+  - day: Torstai
+    open: 8:30
+    close: 16:00
+  - day: Perjantai
+    open: 8:30
+    close: 16:00
+  - day: Launtai
+    open: Suljettu
     close:
-  - day: Sunday
-    open: Closed
+  - day: Sunnuntai
+    open: Suljettu
     close:

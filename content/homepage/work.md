@@ -1,8 +1,8 @@
 ---
-title: 'We Help Businasdess Grow'
+title: 'Lorem ipsum'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'Lue lisää projekteistamme'
 buttonLink: 'work'
 ---
 

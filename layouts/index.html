@@ -41,15 +41,15 @@
 <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
   <div class="row justify-content-start">
     <div class="col-12">
-      <h2 class="text-center mb-3">Our Services</h2>
+      <h2 class="text-center mb-3">Palveluitamme</h2><br>
     </div>
-    {{ range first 6 (sort $services ".Params.weight") }}
+    {{ range first 3 (sort $services ".Params.weight") }}
     <div class="col-12 col-md-4 mb-1">
       {{ .Render "summary" }}
     </div>
     {{ end }}
-    <div class="col-12 text-center">
-      <a class="button button-primary" href="{{ .Site.BaseURL }}services">View All Services</a>
+    <div class="col-12 text-center"><br>
+      <a class="button button-primary" href="{{ .Site.BaseURL }}services">Näytä kaikki palvelut</a>
     </div>
   </div>
 </div>

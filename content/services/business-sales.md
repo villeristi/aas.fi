@@ -1,19 +1,16 @@
 ---
-title: 'Business Sales'
+title: 'Opetusteknologia'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+weight: 3
+heroHeading: 'Opetusteknologia'
+heroSubHeading: 'Piirtoheittimestä älynäyttöön'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Opetusteknologian kehitys viimeisien vuosien aikana piirtoheittimestä älynäyttöön on nostanut av-järjestelmien toimivuuden ja monipuolisuuden merkitystä 2010-luvun puolivälistä lähtien. Olemmekin jatkuvasti panostaneen osaamiseen opetusteknologian ja siinä käytettävään esitystekniikkaan osalta vastataksemme myös tulevaisuuden kiristyviin vaatimuksiin. 
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas

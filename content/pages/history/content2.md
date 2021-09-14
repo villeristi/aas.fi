@@ -2,8 +2,10 @@
 title: 'Integrity & Performance'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+background: ''
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+## Vaihteleviin ympäristöihin
+
+Vuosien varrella monet asiakasprojektit ovat vieneet meitä teatterisalista toimistoon, mereltä  maan uumeniin ja edelleen ylös korkeuksiin. Alkuaikoina toiminan pääpaino keskittyi esitys- ja kokous-tekniikan suunnitteluun sekä asennukseen, mutta vuosien varrella mukaan on tullut lisääntyvässä määrin sähkö-, automaatio- sekä tietoliikenne-järjestelmien suunnittelua, joita poikkeuksetta nykyisin tarvitaan jo yksinkertaisempienkin kokonaisuuksien rakentamisessa. 
