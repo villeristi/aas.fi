@@ -16,11 +16,20 @@ git clone git@github.com:villeristi/aas.fi.git
 hugo server
 ```
 
-5. Make changes to content inside `/content`-directory
+5. Download the latest version locally
+
+```bash
+make download
+```
+
+And make changes to content inside `/content`-directory
 
 6. Add & Commit the changes:
+
+Make sure you have the latest version locally:
+
 ```bash
-make save msg="[INSERT SAVE MESSAGE HERE]"
+make save
 ```
 
 7. Push the commits made to remote which triggers the build automagically:

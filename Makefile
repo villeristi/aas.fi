@@ -1,17 +1,19 @@
-.PHONY: help save public
+.PHONY: help download save public
 .DEFAULT_GOAL := help
 .SILENT:clean
 
 help:
-	@echo "make save msg='Viesti tähän'"
+	@echo "make download"
+	@echo "make save"
 	@echo "make public"
 
+download:
+	@git pull --ff-only
+
 save:
-ifdef msg
-	@git add . && git commit -m "${msg}"
-else
-	@echo "Anna joku viesti, saatana!!!"
-endif
+	@echo "Anna viesti muutoksille:"; \
+	read MSG; \
+	git add . && git commit -m "$${MSG}"
 
 public:
 	@git push -u origin master
