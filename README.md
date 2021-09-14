@@ -26,8 +26,6 @@ And make changes to content inside `/content`-directory
 
 6. Add & Commit the changes:
 
-Make sure you have the latest version locally:
-
 ```bash
 make save
 ```
