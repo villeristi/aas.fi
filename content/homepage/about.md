@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Palvelemme yritys ja yhteisöasiakkaita'
 weight: 2
 background: ''
-button: 'Lue lisää'
-buttonLink: 'about'
+button: 'Ota yhteyttä'
+buttonLink: 'contact'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+AAS:n asiakkaita ovat mm. suunnittelijat ja urakoitsijat, julkinen hallinto, tapahtumateollisuus, merenkulkuala, hotelli- ja ravintola-ala. 

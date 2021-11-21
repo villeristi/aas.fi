@@ -10,9 +10,7 @@ heroSubHeading: 'AV-ympäristöjen rakennuttaminen alusta loppuun'
 heroBackground: 'services/service1.jpg'
 ---
 
-AAS toimii kumppaninasi koko rakennushankkeen ajan huolehtien järjestelmien toiminnallisuuden sekä teknisten vaatimusten täyttymisestä.
-
--
+AAS toimii AV-kumppaninasi tilaajan edunvalvojana koko rakennushankkeen ajan, hankesuunnittelusta luovutukseen
 
 ##	Hankesuunnittelu : 
 

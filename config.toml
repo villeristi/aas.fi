@@ -30,10 +30,6 @@ title = "Adaptive Audiovisual Solutions - AAS"
     url = "/work/"
     weight = 2
 
-[[menu.main]]
-    name = "Meistä"
-    url = "/about/"
-    weight = 3
 
 
 [[menu.main]]

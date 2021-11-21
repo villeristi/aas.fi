@@ -5,25 +5,25 @@ address: |
   Kollantie 119
   26560 Kolla
   Rauma, Finland
-hours:
-  - day: Maanantai
-    open: 8:30
-    close: 16:00
-  - day: Tiistai
-    open: 8:30
-    close: 16:00
-  - day: Keskiviikko
-    open: 8:30
-    close: 16:00
-  - day: Torstai
-    open: 8:30
-    close: 16:00
-  - day: Perjantai
-    open: 8:30
-    close: 16:00
-  - day: Launtai
-    open: Suljettu
-    close:
-  - day: Sunnuntai
-    open: Suljettu
-    close:
+# hours:
+#   - day: Maanantai
+#     open: 8:30
+#     close: 16:00
+#   - day: Tiistai
+#     open: 8:30
+#     close: 16:00
+#   - day: Keskiviikko
+#     open: 8:30
+#     close: 16:00
+#   - day: Torstai
+#     open: 8:30
+#     close: 16:00
+#   - day: Perjantai
+#     open: 8:30
+#     close: 16:00
+#   - day: Launtai
+#     open: Suljettu
+#     close:
+#   - day: Sunnuntai
+#     open: Suljettu
+#     close:

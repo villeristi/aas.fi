@@ -8,6 +8,6 @@ button: 'Yhteydenotto'
 buttonLink: 'contact'
 ---
 
-## Tavoitteena tyytyväinen asiakas
+## Nyt
 
-Tänä päivänä voimme laajan yhteistyöverkostomme avulla palvella asiakkaitamme ylpeästi vastuualueellamme, antaen asiakkaalle mahdollisuuden keskittyä omaan ydinosaamiseensa.  
+Laajan yhteistyöverkostomme avulla voimme palvella asiakkaitamme ylpeästi omalla vastuualueellamme, antaen asiakkaalle mahdollisuuden keskittyä omaan ydinosaamiseensa.  
