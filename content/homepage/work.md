@@ -6,5 +6,5 @@ button: 'Lue lisää projekteista'
 buttonLink: 'work'
 ---
 
-Audiovisuaalinen tekniikka on noussut tällä vuosikymmenellä yhä kiinteämmäksi osaksi verkotettavaa sähköistä talotekniikkaa. AAS toimii kumppaninasi pienestä neuvottelutilasta, suureen koulukeskukseen. 
+Audiovisuaalinen tekniikka on noussut tällä vuosikymmenellä yhä kiinteämmäksi osaksi verkotettavaa sähköistä talotekniikkaa. AAS on kumppanisi hankkeissasi, pienestä neuvottelutilasta suureen koulukeskukseen asti.  
 

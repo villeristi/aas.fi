@@ -6,4 +6,4 @@ button: 'Ota yhteyttä'
 buttonLink: 'contact'
 ---
 
-AAS:n asiakkaita ovat mm. suunnittelijat ja urakoitsijat, julkinen hallinto, tapahtumateollisuus, merenkulkuala, hotelli- ja ravintola-ala. 
+AAS:n asiakkaita ovat mm. julkinen hallinto, tapahtumateollisuus, merenkulkuala, suunnittelijat ja urakoitsijat, hotelli- ja ravintola-ala. 

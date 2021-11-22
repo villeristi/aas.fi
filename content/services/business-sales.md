@@ -10,7 +10,7 @@ heroSubHeading: 'Piirtoheittimestä älynäyttöön'
 heroBackground: 'services/service1.jpg'
 ---
 
-AAS toimii opetusteknologian konsulttina uudishankkeiden, saneerausten ja laitehankintojen yhteydessä
+Opetustilojen esitystekniikan konsultointi uudishankkeiden, saneerausten ja laitehankintojen yhteydessä
 
 
 - 
