@@ -14,14 +14,6 @@
 </div>
 
 <div class="container">
-  <div class="row">
-    <div class="col-12">
-      {{ .Content }}
-    </div>
-  </div>
-</div>
-
-<div class="container">
   <hr>
   <div class="row">
     <div class="col-12 col-md-6">
@@ -32,6 +24,14 @@
         <li style="white-space: pre-wrap;"><strong>Osoite: </strong><br>{{ .Site.Data.contact.address }}</li>
         {{ end }}
       </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      {{ .Content }}
     </div>
   </div>
 </div>
