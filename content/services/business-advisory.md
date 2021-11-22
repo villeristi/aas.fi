@@ -10,4 +10,4 @@ heroSubHeading: 'Henkilöstön tietotaidon ylläpito.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Luennot ja koulutukset av-laitteistojen ja välineistön tehokkaaseen käyttöön
+Luennot ja koulutukset av-laitteistojen ja esitystekniikan tehokkaaseen käyttöön
