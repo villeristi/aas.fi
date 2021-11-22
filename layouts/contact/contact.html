@@ -14,12 +14,29 @@
 </div>
 
 <div class="container">
+  <div class="row">
+    <div class="col-12">
+      <br> <br>
+
+
+
+           <ul>
+        <li><strong>Sähköinen laskutus: </strong></li><br>
+        <li><strong>OVT-tunnus: </strong> <br>003724391480</li>
+        <li><strong>Välittäjä: </strong> <br> ITELFIHH</li><br>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
   <hr>
   <div class="row">
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-6"> <br>
+
       <ul>
-        <li><strong>Puhelin: </strong>{{ .Site.Data.contact.phone }}</li>
-        <li><strong>Sähköposti: </strong><a href="mailto:{{ .Site.Data.contact.email }}">{{ .Site.Data.contact.email }}</a></li>
+        <li><strong>Puhelin: </strong><br>{{ .Site.Data.contact.phone }}</li>
+        <li><strong>Sähköposti: </strong><br><a href="mailto:{{ .Site.Data.contact.email }}">{{ .Site.Data.contact.email }}</a></li>
         {{ if .Site.Data.contact.address }}
         <li style="white-space: pre-wrap;"><strong>Osoite: </strong><br>{{ .Site.Data.contact.address }}</li>
         {{ end }}
@@ -27,7 +44,6 @@
     </div>
   </div>
 </div>
-
 <div class="container">
   <div class="row">
     <div class="col-12">
@@ -35,4 +51,5 @@
     </div>
   </div>
 </div>
+
 {{ end }}
