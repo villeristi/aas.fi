@@ -1,12 +1,14 @@
 <div class="work work-summary">
   {{ if .Params.thumbnail }}
   <div class="work-image">
-    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+    <!-- <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a> -->
+    <img src="{{ .Params.thumbnail | relURL }}"/>
   </div>
   {{ end }}
   <div class="work-content">
     <h2 class="work-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <!-- <a href="{{ .Permalink }}">{{ .Title }}</a> -->
+      {{ .Title }}
     </h2>
     {{ .Content | truncate 120 "..." | plainify }}
   </div>
