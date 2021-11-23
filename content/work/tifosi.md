@@ -11,4 +11,4 @@ images: ['',
 '']
 ---
 
-Käyttöönotettu 2018. AV-järjestelmäsuunnittelu ja sekä käyttöliittymäsuunnittelu ja ohjelmointi
+Käyttöönotettu 2018. AV-järjestelmäsuunnittelu sekä käyttöliittymäsuunnittelu ja ohjelmointi
