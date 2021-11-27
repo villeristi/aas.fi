@@ -11,4 +11,4 @@ images: ['https://www.rauma.fi/wp-content/uploads/2018/01/Otan_monitoimisali_lii
 'https://www.rauma.fi/wp-content/uploads/2018/01/Otan_monitoimisali_kuntosali.jpg']
 ---
 
-Käyttöönotettu 2017. AV-suunnittelu ja rakennuttajakonsulttipalvelut. 
+Käyttöönotettu 2017. AV-suunnittelu ja AV-rakennuttajakonsulttipalvelut. 
