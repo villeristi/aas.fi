@@ -11,4 +11,4 @@ images: ['https://source.unsplash.com/random/400x600/?nature',
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-Käyttöönotettu 2019. AV-Rakennuttaja- ja suunnittelukonsulttipalvelut. 
+Käyttöönotettu 2019. AV- Rakennuttaja- ja suunnittelukonsulttipalvelut. 
